@@ -7,4 +7,4 @@ I hope to write there more about commands and workflow soon.
 
 ## Currently working on:
 
-- [ ] https://github.com/lukaqueres/plan-it/issues/1
+- [ ] Developing web site - https://github.com/lukaqueres/plan-it/issues/1
