@@ -11,3 +11,5 @@ It is still under development.
 - [ ] Make main site, with basic and advanced info about bot
 - [ ] Prepare articles system to write commands usage and docs
 - [ ] Done!
+
+## This site is developed with Laravel framework
